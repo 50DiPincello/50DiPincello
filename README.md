@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
