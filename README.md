@@ -49,4 +49,4 @@ I am graduated in Software Engineering <img src="https://media.giphy.com/media/W
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](guilherme.dsa.martins@gmail.com)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrhTmhKdSlcRMZCflJdpTSqbtbZTqMPnBSFQtqmRplGsGqTlFVJWKnmBNpkfPMsRTMDHCL)
