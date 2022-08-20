@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   Hey there, I'm Guilherme Martins 👋
 </h1>
 
-<div style="background: black">
+<div style="background: black;">
   
 </div>
 
