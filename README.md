@@ -77,4 +77,4 @@ I am graduated in Software Engineering <img src="https://media.giphy.com/media/W
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=50DiPincello&layout=compact&theme=vision-friendly-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=50DiPincello)](https://github.com/anuraghazra/github-readme-stats)
