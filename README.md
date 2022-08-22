@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me :
-I am graduated in Software Engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and currently a 2nd year student Universidade do Minho's Master Degree in Software Engineering.
+I am graduated in Software Engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. Currently I'm taking the Master's Degree at Software Engineering in Universidade do Minho.
 
 - :zap: In my free time, I learn new things with courses on Udemy.
 
